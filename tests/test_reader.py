@@ -1,6 +1,7 @@
+
 import pytest
-from pathlib import Path
-from csvlib.reader import load, get_headers
+
+from csvlib.reader import get_headers, load
 
 
 @pytest.fixture
