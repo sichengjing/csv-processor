@@ -1,4 +1,3 @@
-
 import pytest
 
 from csvlib.reader import get_headers, load
