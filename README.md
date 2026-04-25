@@ -121,3 +121,6 @@ This project was developed with assistance from Claude (Anthropic).
 - **How it was used**: Used to assist with code drafting, debugging, and getting suggestions on project structure and Git workflow.
 - **What it produced**: Helped generate initial drafts for some Python modules, test files, and configuration files.
 - **Review process**: All generated code was reviewed, tested locally, and modified where necessary before committing.
+
+## Group Members
+- Sicheng Jing (solo project)
